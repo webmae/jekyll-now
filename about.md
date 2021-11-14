@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Salut c’est Miloon. Enchantal. Merci, de rien, à bientôt.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a cat compagnon, a food lover, a writer, a watercolor artist, a coder, and also a UX Designer.    
+I'm a French human with Italian roots, living in Brussels, Belgistan.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Beh, I'm on Twitter and on Instagram.
