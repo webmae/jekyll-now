@@ -46,7 +46,10 @@ There was a couple of great quote during this talk. [*Our sensibilities are used
 
 ![Júlia Racskó talking about feelings, and perceptions, and distractions]({{ site.baseurl }}/images/btconf2021/JuliaRacsko.jpg)
 
-And what was super interesting for me as a super-emotive person who loves to draw, she showed us how she's drawing emotions and feelings in a contextual drawing. And I was like "oh my god, maybe I can find a way to express myself, to explain with a drawing what I am experiencing". Because, like a looot of other people, last year was pretty much shit. I was diagnosed with a Panic Disorder. And a year and a half later, I'm on a good way to be considered as healed. When I'll be cured, I will still have to deal with my strong and intense emotions and some anxiety. It always has been difficult to talk about that. The result? Frustration. Thanks to Júlia I may have an idea on how to express those feelings without words, using drawings. 💚
+And what was super interesting for me as a super-emotive person who loves to draw, she showed us how she's drawing emotions and feelings in a contextual drawing. And I was like "oh my god, maybe I can find a way to express myself, to explain with a drawing what I am experiencing".    
+Because, like a looot of other people, last year was pretty much shit. I was diagnosed with a Panic Disorder.    
+And a year and a half later, I'm on a good way to be considered as healed. When I'll be cured, I will still have to deal with my strong and intense emotions and some anxiety. It always has been difficult to talk about that. The result? Frustration.     
+Thanks to Júlia I may have an idea on how to express those feelings without words, using drawings. 💚
 
 ### Mut ist, wenn man es trotzdem macht, by Titus Dittmann
 
