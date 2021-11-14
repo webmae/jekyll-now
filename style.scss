@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $primary;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $primary;
   }
 }
 
@@ -233,7 +233,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $primary;
     }
   }
 }
