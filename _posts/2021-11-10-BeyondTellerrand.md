@@ -55,7 +55,7 @@ Thanks to Júlia I may have an idea on how to express those feelings without wor
 
 ![Titus Dittmann]({{ site.baseurl }}/images/btconf2021/TitusDittmann.png)
 
-Titus began his talk in English to apologise about not doing the talk in English. During this first minutes, he said he was too old for it (almost 73 years-old), taht he used to live in America, and then he talked about skates. Titus is a 72 years old guy considered as the "father of the German skateboard scene". I understood he was a teacher, an entrepreneur and launched his foundation to help people.
+Titus began his talk in English to apologise about not doing the talk in English. During this first minutes, he said he was too old for it (almost 73 years-old), that he used to live in America, and then he talked about skates. Titus is a 72 years old guy considered as the "father of the German skateboard scene". I understood he was a teacher, an entrepreneur and launched his foundation to help people.
 
 For more, I will have to wait until the video of his talk is online and subtitled.
 
@@ -65,7 +65,7 @@ For more, I will have to wait until the video of his talk is online and subtitle
 
 Jeff has been affected by the lockdown. Like everyone. And like everyone, he tried to use this inside time to make something, have fun, help people, be useful,... Like everyone, he experienced a lot of shitty stuff.
 
-Jeff is a comedian and a writer and an activist. He used to live and work in New-York but with the pandemic, he moved in Tennessee to perform inside a hotel. He use the multiple constraints of the pandemic to find solutions and create a new way of living, working and having fun.
+Jeff is a comedian and a writer and an activist. He used to live and work in New-York but with the pandemic, he moved in Tennessee to perform inside a hotel. He used the multiple constraints of the pandemic to find solutions and create a new way of living, working and having fun.
 
 ## The talks - Day 2
 
