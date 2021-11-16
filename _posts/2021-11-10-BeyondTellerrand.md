@@ -24,7 +24,7 @@ One thing that is awesome over there: you do not have to choose between talks. Y
 
 ![Harry Roberts]({{ site.baseurl }}/images/btconf2021/HarryRoberts.jpg)
 
-The art of taking correctly care of what is inside the `<head>` in a website. And also why! And I have to admit, Harry's presentation was pretty convincing...
+The art of taking correctly care of what is inside the `<head>` in a website. And also why! And I have to admit, [Harry's presentation](https://www.youtube.com/watch?v=MHyAOZ45vnU) was pretty convincing...
 
 ### VFWTF?, by Bianca Berning
 
@@ -75,13 +75,13 @@ Jeff is a comedian and a writer and an activist. He used to live and work in New
 
 During more than 4 years, I was a webdev coach. I tried my best to teach my learners this basic concept: **HTML is not a way to declare what stuff looks like on a page**. And most of the time, my learners were like "yeah, whatever, it doesn't matter". And then, Hidde is saying that, indeed, majority of dev doesn't give a shit about semantics and how to use correctly HTML. HTML seems simple but either dev are stupid (because they don't use it correctly) or they are just doing it wrong.
 
-Anyway, I was happy to see a talk about HTML and semantics and roles, and most of it **why** it's important to respect some basic rules. Yeah baby, there is **SEO and money** but there is also **accessibilty and users**.
+Anyway, I was happy to see [a talk about HTML and semantics and roles, and most of it **why** it's important to respect some basic rules](https://www.youtube.com/watch?v=YG9WQUfH7ZU). Yeah baby, there is **SEO and money** but there is also **accessibilty and users**.
 
 ### Why do we really need oauth anyway?, by Aaron Parecki 
 
 ![Aaron Parecki]({{ site.baseurl }}/images/btconf2021/AaronParecki.png)
 
-Ahahahah Aaron! Aaron made us laugh during a talk about Oauth! Many times! Now, I really understand what it is, how it's working and why it is super usefull in many ways. Oauth is like an hotel access card. Brilliant. I really like when speakers talk about technical stuff but use common and daily things to explain them to everyone. It's the "Explain me like I'm 5" method everyone should use all the time. Because no one is left behind, and because it's fun.
+Ahahahah Aaron! Aaron made us laugh during [a talk about Oauth!](https://www.youtube.com/watch?v=uN860I2kGo0) Many times! Now, I really understand what it is, how it's working and why it is super usefull in many ways. Oauth is like an hotel access card. Brilliant. I really like when speakers talk about technical stuff but use common and daily things to explain them to everyone. It's the "Explain me like I'm 5" method everyone should use all the time. Because no one is left behind, and because it's fun.
 
 ### Unlock the fun!, by Ulrike Tausch
 
@@ -89,7 +89,7 @@ Ahahahah Aaron! Aaron made us laugh during a talk about Oauth! Many times! Now, 
 
 Ulrike is a very funny and expressive person. She's full of joy and sparkles. She's basically a human unicorn who really loves fonts. And  she knows how to transmit this love. And it's beautiful.
 
-Plus, she's a very talented font designer. She showed us several awesome features about fonts we had no idea they existed. Her talk completed perfectly Bianca's one.
+Plus, she's a very talented font designer. She showed us several awesome features about fonts we had no idea they existed. Her talk completed perfectly Bianca's one. I'm sorry but either I will make a list of everything, or I'll you discover by yourself [all the amazing things we can do with fonts nowadays](https://www.youtube.com/watch?v=IzqIDLgVZi8).
 
 ### Looking like a lost sheep - The story of the lonely chart, by Matthias Stahl
 
@@ -100,7 +100,7 @@ Matthias is a Data Scientist and Data Visualization Designer. He knows about dat
 > "The more who die, the less we care"
 > — Paul Slovic about psychic numbing
 
-Then he showed us how he's working, how he succeed to put faces, names, stories behind data. And seriously, it's beautiful.
+Then [he showed us how he's working, how he succeed to put faces, names, stories behind data](https://www.youtube.com/watch?v=-72mbfLDr98). And seriously, it's beautiful.
 
 ### Access to tech, tech to live, by Molly Watt
 
@@ -112,7 +112,7 @@ Molly was born deaf. And because her parents wanted her to feel a part of the wo
 
 This is a picture Molly made to show people how she sees or doesn't see. She reveals to us that people who are considered as blind usually are not like they are in a dark room without light. They can see stuff, have some glimpse.
 
-She talked about how technology helps her on a daily basis to be independent and be a part of the world. She said a loooot of interesting things. That's why everyone should watch her talk...
+[She talked about how technology helps her on a daily basis to be independent and be a part of the world](https://www.youtube.com/watch?v=o1sDnFZkfQA). She said a loooot of interesting things. That's why everyone should watch her talk...
 
 For me, it was the kick I needed. I just started a new job in a huge company, working on an already existing product. And I discovered that some feature used by impaired people needed some serious improvement. I made a lot of analysis, research, recommendations... But I feel this frustration: is it enough? How should I know if my remarks and my notes are relevant. I wanted to contact impaired people who are using the product to know their feelings, their remarks, to know their problems, to hear about their recommendations. I was shy, I didn't know how to do it. Well, after Molly's talk, I know that on Monday morning, the first email I will send will be to these person. I may not write my messages correctly but I'm still learning and at least I will try to reach them. I really really want them to test the product and tell me what we should do to improve it for them.
 
