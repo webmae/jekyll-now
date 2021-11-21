@@ -8,7 +8,7 @@ tags: [event, design, english, creativity, UX]
 
 It is a Belgian developer, a Greek AI Specialist, a French writer and their friend UX designer who gather in Dusseldorf. Yep, sounds like a joke but actually, it's a true story. The story of Daniel, Chrysanthi, Leeloo and I at Beyond Tellerrand, the place where humanity, creativity and technology meet. 
 
-![Good morning at Beyond Tellerrand]({{ site.baseurl }}/images/btconf2021/goodmorning.png)
+![Good morning at Beyond Tellerrand]({{ site.baseurl }}/images/btconf2021/goodmorning.jpg)
 
 The last Beyond Tellerrand event took place in may 2019 in Düsseldorf. Since then, Covid happened and everything stopped. Usually, Marc Thiele can organize this huge event during one year. But this time, he received the authorization only a few months before. Marc has succeeded to gather speakers, partners, non-profit organisation, volunteers,... And once again, it was a total success.
 
@@ -16,7 +16,7 @@ It is not without a lot of emotion and some tears that Marc introduced the event
 
 ## The talks, day 1
 
-![Schedule of the 2-days event]({{ site.baseurl }}/images/btconf2021/schedule.png)
+![Schedule of the 2-days event]({{ site.baseurl }}/images/btconf2021/schedule.jpg)
 
 One thing that is awesome over there: you do not have to choose between talks. You can see everything if you want to.
 
@@ -28,13 +28,13 @@ The art of taking correctly care of what is inside the `<head>` in a website. An
 
 ### VFWTF?, by Bianca Berning
 
-![Bianca Berning]({{ site.baseurl }}/images/btconf2021/BiancaBerning.png)
+![Bianca Berning]({{ site.baseurl }}/images/btconf2021/BiancaBerning.jpg)
 
 [Variable Fonts, WTF?](https://www.youtube.com/watch?v=yBSbHaOlYrk) What are they? What are the variables? Weight, slant, italic, optical size, melt? What are their uses, like in dark mode, responsiveness, in AR, in data visualisation,... 
 
 ### Pragmatic Sketching, by Eva-Lotta Lame
 
-![Eva-Lotta Lamm]({{ site.baseurl }}/images/btconf2021/EvaLottaLamm.png)
+![Eva-Lotta Lamm]({{ site.baseurl }}/images/btconf2021/EvaLottaLamm.jpg)
 
 [Eva-Lotta invited us to learn and to sketch](https://www.youtube.com/watch?v=9QOMg7m8u9Q) at the same time as her. She showed and explained a lot of her techniques. I will definitely practice her tips everyday :)
 
@@ -53,7 +53,7 @@ Thanks to Júlia I may have an idea on how to express those feelings without wor
 
 ### Mut ist, wenn man es trotzdem macht, by Titus Dittmann
 
-![Titus Dittmann]({{ site.baseurl }}/images/btconf2021/TitusDittmann.png)
+![Titus Dittmann]({{ site.baseurl }}/images/btconf2021/TitusDittmann.jpg)
 
 Titus began his talk in English to apologise about not doing the talk in English. During this first minutes, he said he was too old for it (almost 73 years-old), that he used to live in America, and then he talked about skates. Titus is a 72 years old guy considered as the "father of the German skateboard scene". I understood he was a teacher, an entrepreneur and launched his foundation to help people.
 
@@ -61,7 +61,7 @@ For more, I will have to wait until the video of his talk is online and subtitle
 
 ### The pandemic didn't kill you, so now what?, by Jeff Greenspan
 
-![Jeff Greenspan]({{ site.baseurl }}/images/btconf2021/JeffGreenspan.png)
+![Jeff Greenspan]({{ site.baseurl }}/images/btconf2021/JeffGreenspan.jpg)
 
 Jeff has been affected by the lockdown. Like everyone. And like everyone, he tried to use this inside time to make something, have fun, help people, be useful,... Like everyone, he experienced a lot of shitty stuff.
 
@@ -71,7 +71,7 @@ Jeff is a comedian and a writer and an activist. He used to live and work in New
 
 ### More to give than just the div - Semantics and how to get them right, Hidde de Vries
 
-![Hidde de Vries]({{ site.baseurl }}/images/btconf2021/HiddedeVries.png)
+![Hidde de Vries]({{ site.baseurl }}/images/btconf2021/HiddedeVries.jpg)
 
 During more than 4 years, I was a webdev coach. I tried my best to teach my learners this basic concept: **HTML is not a way to declare what stuff looks like on a page**. And most of the time, my learners were like "yeah, whatever, it doesn't matter". And then, Hidde is saying that, indeed, majority of dev doesn't give a shit about semantics and how to use correctly HTML. HTML seems simple but either dev are stupid (because they don't use it correctly) or they are just doing it wrong.
 
@@ -79,13 +79,13 @@ Anyway, I was happy to see [a talk about HTML and semantics and roles, and most 
 
 ### Why do we really need oauth anyway?, by Aaron Parecki 
 
-![Aaron Parecki]({{ site.baseurl }}/images/btconf2021/AaronParecki.png)
+![Aaron Parecki]({{ site.baseurl }}/images/btconf2021/AaronParecki.jpg)
 
 Ahahahah Aaron! Aaron made us laugh during [a talk about Oauth!](https://www.youtube.com/watch?v=uN860I2kGo0) Many times! Now, I really understand what it is, how it's working and why it is super usefull in many ways. Oauth is like an hotel access card. Brilliant. I really like when speakers talk about technical stuff but use common and daily things to explain them to everyone. It's the "Explain me like I'm 5" method everyone should use all the time. Because no one is left behind, and because it's fun.
 
 ### Unlock the fun!, by Ulrike Tausch
 
-![Ulrike Rausch]({{ site.baseurl }}/images/btconf2021/UlrikeRausch.png)
+![Ulrike Rausch]({{ site.baseurl }}/images/btconf2021/UlrikeRausch.jpg)
 
 Ulrike is a very funny and expressive person. She's full of joy and sparkles. She's basically a human unicorn who really loves fonts. And  she knows how to transmit this love. And it's beautiful.
 
@@ -93,7 +93,7 @@ Plus, she's a very talented font designer. She showed us several awesome feature
 
 ### Looking like a lost sheep - The story of the lonely chart, by Matthias Stahl
 
-![Matthias Stahl]({{ site.baseurl }}/images/btconf2021/MatthiasStahl.png)
+![Matthias Stahl]({{ site.baseurl }}/images/btconf2021/MatthiasStahl.jpg)
 
 Matthias is a Data Scientist and Data Visualization Designer. He knows about data. And he's working at The Spiegel. He knows how people read data. To make us understand, he showed us this quote:
 
@@ -104,11 +104,11 @@ Then [he showed us how he's working, how he succeed to put faces, names, stories
 
 ### Access to tech, tech to live, by Molly Watt
 
-![Molly Watt was born deaf]({{ site.baseurl }}/images/btconf2021/MollyWatt.png)
+![Molly Watt was born deaf]({{ site.baseurl }}/images/btconf2021/MollyWatt.jpg)
 
 Molly was born deaf. And because her parents wanted her to feel a part of the world, they choose to teach her how to speak and not to use sign language. It worked. She went to school, had friends, but she eventually had some headaches. The doctor told her that the thing who prevent her to hear will soon prevent her to see as well. Molly has Usher Syndrome.
 
-![Molly Watt showing us what she sees]({{ site.baseurl }}/images/btconf2021/Molly.png)
+![Molly Watt showing us what she sees]({{ site.baseurl }}/images/btconf2021/Molly.jpg)
 
 This is a picture Molly made to show people how she sees or doesn't see. She reveals to us that people who are considered as blind usually are not like they are in a dark room without light. They can see stuff, have some glimpse.
 
@@ -128,7 +128,7 @@ Rob Draper came at Beyond Tellerrand this time, not to make a talk, but to paint
 
 ### Leeloo and [Rob Draper](http://www.robdraper.co.uk/)
 
-![Leeloo Rocks & Rob Draper]({{ site.baseurl }}/images/btconf2021/leeloo-rob.png)
+![Leeloo Rocks & Rob Draper]({{ site.baseurl }}/images/btconf2021/leeloo-rob.jpg)
 
 Speaking about Rob, he came in 2019 at Beyond Tellerrand. This year, my friend Leeloo was there and his talk blew her mind. A lot happened to her since this talk but in a nutshell, she quit her job, decided to follow her heart, to heal herself and to become a writer.
 
@@ -140,7 +140,7 @@ And so Rob painted a huge "Au fond du trou" for her. *La boucle est enfin boucl�
 
 ### Andrew, the captioner
 
-![The Captioner's name was Andrew]({{ site.baseurl }}/images/btconf2021/andrew.png)
+![The Captioner's name was Andrew]({{ site.baseurl }}/images/btconf2021/andrew.jpg)
 
 Every talk at Beyond Tellerrand are subtitled, simultaneously. **Accessibility** baby. 
 
@@ -156,17 +156,17 @@ That guy knows who to make us dance. He has the fire. He's mixing and dancing an
 
 ### Thanks!
 
-![Marc Thiele thanking everyone]({{ site.baseurl }}/images//btconf2021/thanks.png)
+![Marc Thiele thanking everyone]({{ site.baseurl }}/images//btconf2021/thanks.jpg)
 
 A lots of love on stage
 
-![Glimpse of the wall on which we could write and draw about joy]({{ site.baseurl }}/images/btconf2021/btconf2021.png)
+![Glimpse of the wall on which we could write and draw about joy]({{ site.baseurl }}/images/btconf2021/btconf2021.jpg)
 
 A lots of love in the audience. ^^ This is a picture of a glimpse of the wall on which we could write or draw on what makes us happy.
 
 ## The booty
 
-![the booty or what I brought home]({{ site.baseurl }}/images/btconf2021/butin.png)
+![the booty or what I brought home]({{ site.baseurl }}/images/btconf2021/butin.jpg)
 
 A loooot of bordel (as we say in French). I could not count everything but I bought 7 t-shirts I guess. Two were offered. I received 2 tote bags, lots of stickers, some pens, a mug (and I grabbed 5 others for my family and friends), two packets of vanilla pudding,... I will distribute everything amongs my family, friends and colleagues. I will make sure a little piece of Beyond Tellerrand is everywhere where I will be until the next edition.
 
