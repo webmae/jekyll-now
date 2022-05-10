@@ -12,7 +12,7 @@ tags: [event, design, english, creativity, UX]
 
 ### Linda Liukas - Programming Playgrounds
 
-https://youtu.be/4F5UpsEcYhU
+[![Thumbnail you can click on to launch the video of the conf of Linda]({{ site.baseurl }}/images/btconf2022/lindaliukas-youtube.jpg)](https://youtu.be/4F5UpsEcYhU)
 
 ![Inside the Capitol Theater]({{ site.baseurl }}/images/btconf2022/monday-lindaliukas2.JPG)
 
