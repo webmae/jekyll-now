@@ -65,6 +65,20 @@ During his conference, he made several calls, several messages. Like:
 
 !["The necessary rigidity of design systems and frameworks is at odds with intrinsic web design"]({{ site.baseurl }}/images/btconf2022/stephanie.JPG)
 
+### Vasilis van Gemert - Exclusive Design: Accessibility and design and thinking outside the box
+[![Thumbnail you can click on to launch the video of the conf of Vasilis van Gemert]({{ site.baseurl }}/images/btconf2022/vasilis-youtube.jpg)](https://youtu.be/TkKkAgjsfgQ)
+
+Oh bordel de merde.
+
+I had the opportunity to improve the screen reader of the TV interface I'm working on a few months ago. And watching Vasilis's talk made me want to redo everything. Everything.
+
+He's totally right: we're doing the strict minimum. We're just following guidelines. But where is the fun, the feelings, the humanity? Why not using this feature in a different way? Why not playing with it, giving it a personality? Why not thinking outside the box?
+
+![Vasilis van Gemert with an example of what a screen reader reads to blind people.]({{ site.baseurl }}/images/btconf2022/vasilis2.JPG)
+
+### Jude Pullen - More Than Answers – Designing for Questions and Provocations: Accessibility
+[![Thumbnail you can click on to launch the video of the conf of Jude Pullen]({{ site.baseurl }}/images/btconf2022/judepullen-youtube.jpg)](https://youtu.be/PBJo3HyGPkw)
+
 ### Léonie Watson - Bag of Spanners: Code and accessibility
 Oh la la ! Personaly, when I have the possibility to hear about accessibility directly from people who are concerned, I'm thrilled.
 
@@ -118,14 +132,6 @@ Illustration of Michael Jackson being a danger to children. Did you notice the k
 
 ![Cabeza Patata on stage]({{ site.baseurl }}/images/btconf2022/patatas.JPG)
 
-### Vasilis van Gemert - Exclusive Design: Accessibility and design and thinking outside the box
-[![Thumbnail you can click on to launch the video of the conf of Vasilis van Gemert]({{ site.baseurl }}/images/btconf2022/vasilis-youtube.jpg)](https://youtu.be/TkKkAgjsfgQ)
-
-![Vasilis van Gemert with an example of what a screen reader reads to blind people.]({{ site.baseurl }}/images/btconf2022/vasilis2.JPG)
-
-### Jude Pullen - More Than Answers – Designing for Questions and Provocations: Accessibility
-[![Thumbnail you can click on to launch the video of the conf of Jude Pullen]({{ site.baseurl }}/images/btconf2022/judepullen-youtube.jpg)](https://youtu.be/PBJo3HyGPkw)
-
 ### Geri Coady - If Not Now, When? Turning Your Passion Project into a Reality: Inspiring talk about life
 [![Thumbnail you can click on to launch the video of the conf of Geri]({{ site.baseurl }}/images/btconf2022/geri-youtube.jpg)](https://youtu.be/WIKWwWHrznE)
 
@@ -139,16 +145,15 @@ Yep, Andrew, as he did in November, was the real-time live captioner of this eve
 ### Baldower, the official DJ
 OMG, Tobi is so talented. Even at 10AM, he has this incredible communicative energy that set us on fire. This is also why I love to attend physically to this event: everything is made to make you confortable and happy and alive. Tobi did an amazing set... Even a few weeks after the event, I still have the song he sang and yelled before a talk and at the very end of the event... A song about community, a song about us.
 
+### Thanks!
+![Marc thanking the whole team]({{ site.baseurl }}/images/btconf2022/thanksteam.JPG)
+
+Marc Thiele thanked the whole team, including his wife and one of his daughters...
+
 ### Marc Thiele
 I mentionned a lot a certain Marc like I assume you know who he is. And you should. Marc is the man who organizes, who sets up, who invites, who makes sure everything is perfect for everyone before, during and after the event. He's like a guardian angel really. I could write for hours about him.
 
 I'm always too shy to tell him directly, IRL, that I'm so gratefull for what is doing so at least, I'm telling him by mail, via social media or in my blog post. And Marc, trully, I am. It's not just the talks and the speakers you schedule that changed my life (and the life of Leeloo also... I mentionned it in my previous blog post about the 2021 edition of Beyond Tellerrand), it's litterally everything you do. So again, thank you very much for what you are doing.
-
-### Thanks!
-
-![Marc thanking the whole team]({{ site.baseurl }}/images/btconf2022/thanksteam.JPG)
-
-Marc Thiele thanked the whole team, including his wife and one of his daughters...
 
 ## External Links
 
