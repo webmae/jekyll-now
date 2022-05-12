@@ -58,14 +58,21 @@ During his conference, he made several calls, several messages. Like:
 
 !["Learn how to test your sites with the keyboard and screen readers."]({{ site.baseurl }}/images/btconf2022/manuel9.JPG)
 
-### Stephanie Eeckles - Scaling CSS Layout Beyond Pixels
+### Stephanie Eeckles - Scaling CSS Layout Beyond Pixels: A talk about CSS and responsiveness
 [![Thumbnail you can click on to launch the video of the conf of Stephanie]({{ site.baseurl }}/images/btconf2022/stephanie-youtube.jpg)](https://youtu.be/8slZJrTK3nE)
+
+"Responsive designs being created today have to serve more users on more devices and with more varied abilities and preferences than ever before. And size and spacing of elements can quite literally make or break your layout. In this new world, strict pixel values are so Web 2.0. Let’s review modern CSS techniques for building future-forward flexibility into our layouts and components"
 
 !["The necessary rigidity of design systems and frameworks is at odds with intrinsic web design"]({{ site.baseurl }}/images/btconf2022/stephanie.JPG)
 
 ### Léonie Watson - Bag of Spanners
+Oh la la ! Personaly, when I have the possibility to hear about accessibility directly from people who are concerned, I'm thrilled.
+
+Lately, I only heard about accessibility from people with no impairement. It's like listening men talking about what it feels like to be a woman. In theory, you know some stuff, but you can never tell from experience. So indeed, listening to Léonie was a privilege to me, young UX designer in Belgium who had to improve a screen reader for TV all by myself. Sure, I have myopia so without my glasses, I have an impairement but I already know my TV interface. I'm always wondering about people who don't have glasses, who don't have options and have to rely on screen readers.
 
 [![Thumbnail you can click on to launch the video of the conf of Léonie]({{ site.baseurl }}/images/btconf2022/leoniewatson-youtube.jpg)](https://youtu.be/ixdTM8UGoIo)
+
+Well, what Léonie told us during her talk is that with an understanding of how accessibility mechanics work in the browser, knowledge of how to provide or polyfill accessibility semantics, and a little bit of effort, we can provide a qualitative and accessible experience to everyone.
 
 ### Aarron Walter - Returning to Your Maker Roots
 
