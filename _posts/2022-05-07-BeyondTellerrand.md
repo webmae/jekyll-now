@@ -31,27 +31,37 @@ And for those who were looking for new colleagues or a new opportunity, the Job 
 ### Linda Liukas - Programming Playgrounds or how to see code with children's eyes
 
 [![Thumbnail you can click on to launch the video of the conf of Linda]({{ site.baseurl }}/images/btconf2022/lindaliukas-youtube.jpg)](https://youtu.be/4F5UpsEcYhU)
+Linda Liukas opened Monday's serie of conferences with a wonderful subject: children's eyes.    
+I guess what she said about algorithm may sum up her statement: if you ask grown-up what is an algorithm, they will not be sure, they may talk about facebook, social media, not be sure really... But if you ask a child what is an algorithm, they will answer with confidence that it's a step by step solution to solving a problem.
+
+She's teaching children curiosity, fearlessness, wonder. It reminded me of my time being a webdev trainer. It's so difficult to teach that to adults but she's right: this is something we should not lose sight of. Never.
 
 ![Linda Liukas on stage]({{ site.baseurl }}/images/btconf2022/monday-lindaliukas2.JPG)
 
+Learn by experimenting, trying, touching, feeling... The best way to learn.
+
 ### Manuel Matuzović - Lost in Translation
+
 [![Thumbnail you can click on to launch the video of the conf of Manuel]({{ site.baseurl }}/images/btconf2022/manuel-youtube.jpg)](https://youtu.be/Wno1IhEBTxc)
 
+A frontend developer’s job is to look at a design, interpret it, and translate it to HTML and CSS. Unfortunately, information often gets lost in translation because we rely too much on visual aspects of a design, rather than its semantic meaning.
 
-![Inside the Capitol Theater]({{ site.baseurl }}/images/btconf2022/manuel3.JPG)
+![A div is not a button]({{ site.baseurl }}/images/btconf2022/manuel3.JPG)
 
-![Inside the Capitol Theater]({{ site.baseurl }}/images/btconf2022/manuel4.JPG)
+During his conference, he made several calls, several messages. Like:
 
-![Inside the Capitol Theater]({{ site.baseurl }}/images/btconf2022/manuel7.JPG)
+!["Home pages with ARIA present averaged 70% more detected errors than those without ARIA."]({{ site.baseurl }}/images/btconf2022/manuel4.JPG)
 
-![Inside the Capitol Theater]({{ site.baseurl }}/images/btconf2022/manuel8.JPG)
+!["We're wrongfully downplaying the complexity of HTML due to the simplicity of its syntax."]({{ site.baseurl }}/images/btconf2022/manuel7.JPG)
 
-![Manuel]({{ site.baseurl }}/images/btconf2022/manuel9.JPG)
+!["Accessibility issues don't just come from what's visible in a design, but from what's not visible."]({{ site.baseurl }}/images/btconf2022/manuel8.JPG)
+
+!["Learn how to test your sites with the keyboard and screen readers."]({{ site.baseurl }}/images/btconf2022/manuel9.JPG)
 
 ### Stephanie Eeckles - Scaling CSS Layout Beyond Pixels
 [![Thumbnail you can click on to launch the video of the conf of Stephanie]({{ site.baseurl }}/images/btconf2022/stephanie-youtube.jpg)](https://youtu.be/8slZJrTK3nE)
 
-![Stephanie Eeckles]({{ site.baseurl }}/images/btconf2022/stephanie.JPG)
+!["The necessary rigidity of design systems and frameworks is at odds with intrinsic web design"]({{ site.baseurl }}/images/btconf2022/stephanie.JPG)
 
 ### Léonie Watson - Bag of Spanners
 
@@ -63,7 +73,7 @@ And for those who were looking for new colleagues or a new opportunity, the Job 
 
 ![Marc Thiele introducing Aarron Walter]({{ site.baseurl }}/images/btconf2022/aarron.JPG)
 
-![I"The Great Pause is a rare and trully sacred opportunity to get rid f the bullshit and only bring back what works for us", quote by Oliver Burkeman]({{ site.baseurl }}/images/btconf2022/aarron1.JPG)
+!["The Great Pause is a rare and trully sacred opportunity to get rid f the bullshit and only bring back what works for us", quote by Oliver Burkeman]({{ site.baseurl }}/images/btconf2022/aarron1.JPG)
 
 ### Sacha Judd - Everything Breaks at Scale
 [![Thumbnail you can click on to launch the video of the conf of Sacha]({{ site.baseurl }}/images/btconf2022/sacha-youtube.jpg)](https://youtu.be/N69kslnja0Q)
@@ -73,11 +83,11 @@ And for those who were looking for new colleagues or a new opportunity, the Job 
 ### Noma Bar - Graphic Storytelling
 [![Thumbnail you can click on to launch the video of the conf of Noma Bar on Youtube]({{ site.baseurl }}/images/btconf2022/noma-youtube.jpg)](https://youtu.be/MTFofxcIVwU)
 
-![Noma Bar]({{ site.baseurl }}/images/btconf2022/monday-noma.JPG)
+![Noma Bar with his Michael Jackson with kid illustration]({{ site.baseurl }}/images/btconf2022/monday-noma.JPG)
 
 ### Tim Kadlec - The Big Picture
 
-![Tim Kadlec]({{ site.baseurl }}/images/btconf2022/monday-tim3.JPG)
+![LCP and images checklist presented by Tim Kadlec]({{ site.baseurl }}/images/btconf2022/monday-tim3.JPG)
 
 ### Cabeza Patata
 [![Thumbnail you can click on to launch the video of the conf of Cabeza Patata on Youtube]({{ site.baseurl }}/images/btconf2022/cabezapatata-youtube.jpg)](https://www.youtube.com/watch?v=H-_-7kvM4aA)
@@ -87,7 +97,7 @@ And for those who were looking for new colleagues or a new opportunity, the Job 
 ### Vasilis van Gemert - Exclusive Design
 [![Thumbnail you can click on to launch the video of the conf of Vasilis van Gemert]({{ site.baseurl }}/images/btconf2022/vasilis-youtube.jpg)](https://youtu.be/TkKkAgjsfgQ)
 
-![Vasilis van Gemert]({{ site.baseurl }}/images/btconf2022/vasilis2.JPG)
+![Vasilis van Gemert with an example of what a screen reader reads to blind people.]({{ site.baseurl }}/images/btconf2022/vasilis2.JPG)
 
 ### Jude Pullen - More Than Answers – Designing for Questions and Provocations
 [![Thumbnail you can click on to launch the video of the conf of Jude Pullen]({{ site.baseurl }}/images/btconf2022/judepullen-youtube.jpg)](https://youtu.be/PBJo3HyGPkw)
