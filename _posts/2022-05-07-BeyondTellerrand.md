@@ -28,7 +28,7 @@ And for those who were looking for new colleagues or a new opportunity, the Job 
 
 ## The talks
 
-### Linda Liukas - Programming Playgrounds or how to see code with children's eyes
+### Linda Liukas - Programming Playgrounds: how to see code with children's eyes
 
 [![Thumbnail you can click on to launch the video of the conf of Linda]({{ site.baseurl }}/images/btconf2022/lindaliukas-youtube.jpg)](https://youtu.be/4F5UpsEcYhU)
 Linda Liukas opened Monday's serie of conferences with a wonderful subject: children's eyes.    
@@ -40,7 +40,7 @@ She's teaching children curiosity, fearlessness, wonder. It reminded me of my ti
 
 Learn by experimenting, trying, touching, feeling... The best way to learn.
 
-### Manuel Matuzović - Lost in Translation
+### Manuel Matuzović - Lost in Translation: code and accessibility
 
 [![Thumbnail you can click on to launch the video of the conf of Manuel]({{ site.baseurl }}/images/btconf2022/manuel-youtube.jpg)](https://youtu.be/Wno1IhEBTxc)
 
@@ -65,7 +65,7 @@ During his conference, he made several calls, several messages. Like:
 
 !["The necessary rigidity of design systems and frameworks is at odds with intrinsic web design"]({{ site.baseurl }}/images/btconf2022/stephanie.JPG)
 
-### Léonie Watson - Bag of Spanners
+### Léonie Watson - Bag of Spanners: Code and accessibility
 Oh la la ! Personaly, when I have the possibility to hear about accessibility directly from people who are concerned, I'm thrilled.
 
 Lately, I only heard about accessibility from people with no impairement. It's like listening men talking about what it feels like to be a woman. In theory, you know some stuff, but you can never tell from experience. So indeed, listening to Léonie was a privilege to me, young UX designer in Belgium who had to improve a screen reader for TV all by myself. Sure, I have myopia so without my glasses, I have an impairement but I already know my TV interface. I'm always wondering about people who don't have glasses, who don't have options and have to rely on screen readers.
@@ -74,56 +74,75 @@ Lately, I only heard about accessibility from people with no impairement. It's l
 
 Well, what Léonie told us during her talk is that with an understanding of how accessibility mechanics work in the browser, knowledge of how to provide or polyfill accessibility semantics, and a little bit of effort, we can provide a qualitative and accessible experience to everyone.
 
-### Aarron Walter - Returning to Your Maker Roots
+### Aarron Walter - Returning to Your Maker Roots: Inspiring talk about life
+![Marc Thiele introducing Aarron Walter]({{ site.baseurl }}/images/btconf2022/aarron.JPG)
+
+Here is a picture of Marc Thiele introducing Aarron Walter before his talk.
 
 [![Thumbnail you can click on to launch the video of the conf of Aarron]({{ site.baseurl }}/images/btconf2022/aarron-youtube.jpg)](https://youtu.be/_hjL82Z1Fc8)
 
-![Marc Thiele introducing Aarron Walter]({{ site.baseurl }}/images/btconf2022/aarron.JPG)
+These are the few lessons he learn from the pandemic:
+1. less bullshit
+2. Remember what lights you up. And we noticed that kids are always focused on what's light them up.
+3. More deep relationships. Less shallow acquaintances.
+4. Make space for discovery
+And those lessons led him to creating a podcast called "Re: Considering: A podcast about life and doing it better", with a guy named Bob he became friend with but he, still now, never met IRL.
 
-!["The Great Pause is a rare and trully sacred opportunity to get rid f the bullshit and only bring back what works for us", quote by Oliver Burkeman]({{ site.baseurl }}/images/btconf2022/aarron1.JPG)
+What about you? Where these lessons might lead you?
 
-### Sacha Judd - Everything Breaks at Scale
+!["The Great Pause is a rare and trully sacred opportunity to get rid of the bullshit and only bring back what works for us", quote by Oliver Burkeman]({{ site.baseurl }}/images/btconf2022/aarron2.JPG)
+
+### Sacha Judd - Everything Breaks at Scale: A little bit of sociology
 [![Thumbnail you can click on to launch the video of the conf of Sacha]({{ site.baseurl }}/images/btconf2022/sacha-youtube.jpg)](https://youtu.be/N69kslnja0Q)
+
+Oh my god, this talk!!! It's basically: everything you need to know and understand about conspiracy theorists... and how the pandemic has made things worse.
+Very interesting...
 
 ![Sacha on stage]({{ site.baseurl }}/images/btconf2022/sacha.JPG)
 
 ### Noma Bar - Graphic Storytelling
 [![Thumbnail you can click on to launch the video of the conf of Noma Bar on Youtube]({{ site.baseurl }}/images/btconf2022/noma-youtube.jpg)](https://youtu.be/MTFofxcIVwU)
 
+I know I already posted a lot of pictures, like for Manuel's talk but for Noma's talk, I'd rather just invite you to watch the entire talk. A lot of amazing illustration, deep meaning, strong critics, and as always with Beyond Tellerrand's speakers: a huuuge dose of humanity.
+
 ![Noma Bar with his Michael Jackson with kid illustration]({{ site.baseurl }}/images/btconf2022/monday-noma.JPG)
 
-### Tim Kadlec - The Big Picture
+Illustration of Michael Jackson being a danger to children. Did you notice the kid on the illustration?
+
+### Tim Kadlec - The Big Picture: how to have a more performant code
 
 ![LCP and images checklist presented by Tim Kadlec]({{ site.baseurl }}/images/btconf2022/monday-tim3.JPG)
 
-### Cabeza Patata
+### Cabeza Patata: Inspiring talk about life
 [![Thumbnail you can click on to launch the video of the conf of Cabeza Patata on Youtube]({{ site.baseurl }}/images/btconf2022/cabezapatata-youtube.jpg)](https://www.youtube.com/watch?v=H-_-7kvM4aA)
 
 ![Cabeza Patata on stage]({{ site.baseurl }}/images/btconf2022/patatas.JPG)
 
-### Vasilis van Gemert - Exclusive Design
+### Vasilis van Gemert - Exclusive Design: Accessibility and design and thinking outside the box
 [![Thumbnail you can click on to launch the video of the conf of Vasilis van Gemert]({{ site.baseurl }}/images/btconf2022/vasilis-youtube.jpg)](https://youtu.be/TkKkAgjsfgQ)
 
 ![Vasilis van Gemert with an example of what a screen reader reads to blind people.]({{ site.baseurl }}/images/btconf2022/vasilis2.JPG)
 
-### Jude Pullen - More Than Answers – Designing for Questions and Provocations
+### Jude Pullen - More Than Answers – Designing for Questions and Provocations: Accessibility
 [![Thumbnail you can click on to launch the video of the conf of Jude Pullen]({{ site.baseurl }}/images/btconf2022/judepullen-youtube.jpg)](https://youtu.be/PBJo3HyGPkw)
 
-### Geri Coady - If Not Now, When? Turning Your Passion Project into a Reality
+### Geri Coady - If Not Now, When? Turning Your Passion Project into a Reality: Inspiring talk about life
 [![Thumbnail you can click on to launch the video of the conf of Geri]({{ site.baseurl }}/images/btconf2022/geri-youtube.jpg)](https://youtu.be/WIKWwWHrznE)
 
 
-## Around the talks...
+## The people of Beyond Tellerrand
 
 ### Andrew, the captioner
-
 ![Andrew, the Captionner]({{ site.baseurl }}/images/btconf2022/andrew.JPG)
-
-
+Yep, Andrew, as he did in November, was the real-time live captioner of this event. Amazing to see Marc and Andrew interact together in front of us. Andrew did an incredible work as, sometimes, as a foreigner, you don't always get every words said so it helped us a lot. Yep, even us who are not deaf :)
 
 ### Baldower, the official DJ
+OMG, Tobi is so talented. Even at 10AM, he has this incredible communicative energy that set us on fire. This is also why I love to attend physically to this event: everything is made to make you confortable and happy and alive. Tobi did an amazing set... Even a few weeks after the event, I still have the song he sang and yelled before a talk and at the very end of the event... A song about community, a song about us.
 
+### Marc Thiele
+I mentionned a lot a certain Marc like I assume you know who he is. And you should. Marc is the man who organizes, who sets up, who invites, who makes sure everything is perfect for everyone before, during and after the event. He's like a guardian angel really. I could write for hours about him.
 
+I'm always too shy to tell him directly, IRL, that I'm so gratefull for what is doing so at least, I'm telling him by mail, via social media or in my blog post. And Marc, trully, I am. It's not just the talks and the speakers you schedule that changed my life (and the life of Leeloo also... I mentionned it in my previous blog post about the 2021 edition of Beyond Tellerrand), it's litterally everything you do. So again, thank you very much for what you are doing.
 
 ### Thanks!
 
@@ -131,9 +150,8 @@ Well, what Léonie told us during her talk is that with an understanding of how 
 
 Marc Thiele thanked the whole team, including his wife and one of his daughters...
 
-
-
 ## External Links
 
 - [Beyond tellerrand's speakers](https://beyondtellerrand.com/events/dusseldorf-2022/speakers)
 - [Beyond Tellerrand Dusseldorf 2022's playlist on YouTube](https://www.youtube.com/watch?v=4F5UpsEcYhU&list=PL8ZzmQWppBBuMNlNqncVrNQgbWHPvfvkI)
+- [Official website of Tobi Lessnow (aka Baldower), the DJ!](https://www.tobi-lessnow.com/)
