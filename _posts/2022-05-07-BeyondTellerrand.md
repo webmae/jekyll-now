@@ -76,8 +76,17 @@ He's totally right: we're doing the strict minimum. We're just following guideli
 
 ![Vasilis van Gemert with an example of what a screen reader reads to blind people.]({{ site.baseurl }}/images/btconf2022/vasilis2.JPG)
 
-### Jude Pullen - More Than Answers – Designing for Questions and Provocations: Accessibility
+### Jude Pullen - More Than Answers – Designing for Questions and Provocations: Accessibility, open source, thinking outside the box
 [![Thumbnail you can click on to launch the video of the conf of Jude Pullen]({{ site.baseurl }}/images/btconf2022/judepullen-youtube.jpg)](https://youtu.be/PBJo3HyGPkw)
+
+The talk that made me cry.
+
+Jude showed us some of his incredible works. The open source 3D printed radio of the world (absolutly awesome) or a pollution detector with canari (you have to watch the talk to understand) but...
+
+Oh gods, when I saw the interview of Kyle, a guy he worked with and for, I cried. Kyle said: "There has been times I'm having to pass my plate down to my friends to cut my food up which at 27... is really hard. I don't want people to look at me and judge me before they've got a chance to know me. I don't want people to give me the title as, "That"s the guy with one hand" because I'm not a guy with one hand. I'm Kyle." Indeed, Kyle has one hand since birth. But what's awesome, it's that he wanted to become a hairdresser. And that's when Jude arrived in his life and worked with him in order to create a special hand that will allow Kyle to cut hair.
+And even better: when Kyle went to hairdresser school, the other students didn't feel pity for him, they were almost jalous. The system Kyle was using allows him to be more precise and more performant than a regular human hand.
+
+Yes, accessibility
 
 ### Léonie Watson - Bag of Spanners: Code and accessibility
 Oh la la ! Personaly, when I have the possibility to hear about accessibility directly from people who are concerned, I'm thrilled.
@@ -127,14 +136,19 @@ Illustration of Michael Jackson being a danger to children. Did you notice the k
 
 ![LCP and images checklist presented by Tim Kadlec]({{ site.baseurl }}/images/btconf2022/monday-tim3.JPG)
 
-### Cabeza Patata: Inspiring talk about life
+### Cabeza Patata - The Positives of Saying No: Inspiring talk about life
 [![Thumbnail you can click on to launch the video of the conf of Cabeza Patata on Youtube]({{ site.baseurl }}/images/btconf2022/cabezapatata-youtube.jpg)](https://www.youtube.com/watch?v=H-_-7kvM4aA)
+
+Cabeza Patata is the name of the agency launched by Katie and Abel. They have a very inspiring story to tell. Where it led them to say "no" when, usually, the rest of the people would have said "yes"... For example, when their agency became successfull, they could have moved in a bigger office, hired more people but instead, they just decided to live in a mobile home and to travel. What the fuck? Who do that?! Beh, them.
+And actually, they made a list of "lessons" or "rules" that led them to a new way of living when they feel alive and happy and free. It's not a common way of living but it's based on their will and needs. And it's brilliant.
 
 ![Cabeza Patata on stage]({{ site.baseurl }}/images/btconf2022/patatas.JPG)
 
 ### Geri Coady - If Not Now, When? Turning Your Passion Project into a Reality: Inspiring talk about life
 [![Thumbnail you can click on to launch the video of the conf of Geri]({{ site.baseurl }}/images/btconf2022/geri-youtube.jpg)](https://youtu.be/WIKWwWHrznE)
 
+Geri is a woman who met the japanese culture in an uncommon way (I won't spoil, just watch the talk. It's super cute). And she fell in love with Japan. She went over there and the travel changed her life. She decided to create illustrations about Japan. And eventually, she had customers. And she tried to get more customers. And of course her journey was not perfect, she failed, but she learned from her failures. She shared her lessons with us. She encouraged us to try to get a living from our passion. It may not apply to everyone but it made me think about [Leeloo](https://leeloorocks.com/), who got inspired by [another talk at Beyond Tellerrand](https://beyondtellerrand.com/events/dusseldorf-2019/speakers/rob-draper) and decided to quit her job and to become a writer.
+Talks at Beyond Tellerrand changes lives.
 
 ## The people of Beyond Tellerrand
 
