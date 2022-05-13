@@ -86,8 +86,6 @@ Jude showed us some of his incredible works. The open source 3D printed radio of
 Oh gods, when I saw the interview of Kyle, a guy he worked with and for, I cried. Kyle said: "There has been times I'm having to pass my plate down to my friends to cut my food up which at 27... is really hard. I don't want people to look at me and judge me before they've got a chance to know me. I don't want people to give me the title as, "That"s the guy with one hand" because I'm not a guy with one hand. I'm Kyle." Indeed, Kyle has one hand since birth. But what's awesome, it's that he wanted to become a hairdresser. And that's when Jude arrived in his life and worked with him in order to create a special hand that will allow Kyle to cut hair.
 And even better: when Kyle went to hairdresser school, the other students didn't feel pity for him, they were almost jalous. The system Kyle was using allows him to be more precise and more performant than a regular human hand.
 
-Yes, accessibility
-
 ### Léonie Watson - Bag of Spanners: Code and accessibility
 Oh la la ! Personaly, when I have the possibility to hear about accessibility directly from people who are concerned, I'm thrilled.
 
@@ -120,6 +118,7 @@ What about you? Where these lessons might lead you?
 
 Oh my god, this talk!!! It's basically: everything you need to know and understand about conspiracy theorists... and how the pandemic has made things worse.
 Very interesting...
+I would like to write everything that blew my mind but seriously, you HAVE to watch this talk!!!
 
 ![Sacha on stage]({{ site.baseurl }}/images/btconf2022/sacha.JPG)
 
