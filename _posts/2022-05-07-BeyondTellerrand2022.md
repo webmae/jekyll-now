@@ -133,7 +133,13 @@ Illustration of Michael Jackson being a danger to children. Did you notice the k
 
 ### Tim Kadlec - The Big Picture: how to have a more performant code
 
+_No video on youtube so far, maybe later. Will update if available._
+
 ![LCP and images checklist presented by Tim Kadlec]({{ site.baseurl }}/images/btconf2022/monday-tim3.JPG)
+
+Tim has dedicated his talk to improving performance when a website needs to display a large image. It sounds trivial but his demonstration was very technical and proved once again that code can be considered as a work of art if one masters its subject well.
+
+Such a shame that the video is missing because my dev friends would have appreciated this one.
 
 ### Cabeza Patata - The Positives of Saying No: Inspiring talk about life
 [![Thumbnail you can click on to launch the video of the conf of Cabeza Patata on Youtube]({{ site.baseurl }}/images/btconf2022/cabezapatata-youtube.jpg)](https://www.youtube.com/watch?v=H-_-7kvM4aA)
